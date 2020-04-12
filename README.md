@@ -2,7 +2,7 @@
 
 The logo for [Project UTTMA](https://github.com/UTTMA):
 
-<img src="https://uttma.github.io/Logo/Rendered/UTTMA%20Logo.svg" alt="A stylized cyan cube, with an orange 'U' shape at its bottom, outlined in a thick eggshell white border. Almost all corners are rounded except the top corners of the 'U' shape, which are sharp angles." width="256" />
+<img src="https://uttma.github.io/Logo/Rendered/UTTMA%20Icon%20(256p)@2x.png" alt="A stylized cyan cube, with an orange 'U' shape at its bottom, outlined in a thick eggshell white border. Almost all corners are rounded except the top corners of the 'U' shape, which are sharp angles." width="256" />
 
 
 ## For Using ##
