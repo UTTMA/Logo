@@ -9,7 +9,7 @@ The logo for [Project UTTMA](https://github.com/UTTMA):
 
 Feel free to use the UTTMA logo! You just gotta keep to the terms of [the license](https://github.com/UTTMA/Logo/blob/master/LICENSE.txt). Don't worry, there's an actually-easy-to-read section at the top 😉
 
-Also, though you don't structly have to, it'd be nice if you kept your use of this logo to stuff related to [Project UTTMA](https://github.com/UTTMA).
+Also, though you don't strictly have to, it'd be nice if you kept your use of this logo to stuff related to [Project UTTMA](https://github.com/UTTMA).
 
 
 ## For Contributing ##
